@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-# flutter_application_1
-
-A new Flutter project.
-=======
-"# Tugas1_LayoutLogin" 
->>>>>>> 3863a154a9e61e1beaedf186f2546a404d6783bf
+Aplikasi web mobile Flutter Menampilkan UI dasar halaman login Material Design yang responsif. Menampilkan input email/password, tombol 'Log In', dan 'Forgot password?'. Dirancang untuk pembelajaran UI tanpa logika backend, sebagai Tugas 1 pada Praktikum Pemrograman Aplikasi Mobile. Fokus pada estetika dan pengalaman pengguna di perangkat mobile.
